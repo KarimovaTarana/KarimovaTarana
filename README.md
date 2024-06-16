@@ -12,7 +12,7 @@ I'm a university student passionate about data science and AI. Currently, I'm di
   - Open-source machine learning projects
   - Data science competitions
 - 📫 How to reach me: 
-  - [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/tarana-karimova/))
+  - [LinkedIn](https://www.linkedin.com/in/tarana-karimova/)
   
 ### Featured Projects
 - [Rice Image Classification By PyTorch](https://github.com/yourusername/Rice-Image-Classification-By-Pytorch)
