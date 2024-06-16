@@ -16,8 +16,7 @@ I'm a university student passionate about data science and AI. Currently, I'm di
 
 ### Featured Projects
 - [Rice Image Classification By PyTorch](https://github.com/yourusername/Rice-Image-Classification-By-Pytorch)
-### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimovaTarana)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 KarimovaTarana/KarimovaTarana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
